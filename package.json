@@ -1,7 +1,7 @@
 {
-  "name": "code-school",
+  "name": "nodejs-typescript-setup",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "build/index.js",
   "author": "Emilio Scodeler",
   "license": "MIT",
   "scripts": {
